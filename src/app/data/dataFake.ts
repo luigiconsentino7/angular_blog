@@ -1,26 +1,26 @@
 export const dataFake = [
   {
     "id":"1",
-    "title": "NOVO HOMEM DE FERRO EM 3D",
-    "description": "Marvel Studios anuncia novo filme do Homem de Ferro, confira!",
-    "photoCover":"https://gamerview.uai.com.br/wp-content/uploads/2020/06/marvels-iron-man-vr.jpg"
+    "title": "O QUE É ANGULAR?",
+    "description": "O Angular é um framework de desenvolvimento front-end mantido pelo Google, usado para criar aplicativos web e móveis. Ele se destaca por seu sistema de componentes, diretivas, injeção de dependência e roteamento, bem como pela integração com TypeScript e ferramentas de desenvolvimento. É amplamente adotado pela comunidade de desenvolvedores para criar aplicativos web dinâmicos e interativos.",
+    "photoCover":"https://logowik.com/content/uploads/images/angular9826.logowik.com.webp"
   },
   {
     "id":"2",
-    "title": "Nova Série anunciada no Disney +",
-    "description": "Nova série da Marvel será lançada em Fevereiro de 2024!",
-    "photoCover":"https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/08/iron-man-movies-in-order.jpg"
+    "title": "SOBRE A LINGUAGEM JAVA",
+    "description": "Java é uma linguagem de programação versátil, orientada a objetos, com forte segurança e amplamente usada para desenvolver aplicativos web, móveis e empresariais. Ela é conhecida por sua portabilidade, já que os programas Java podem ser executados em diferentes plataformas sem alterações significativas.",
+    "photoCover":"https://4a7efb2d53317100f611-1d7064c4f7b6de25658a4199efb34975.ssl.cf1.rackcdn.com/java-emergency-upgrade-installers-showcase_image-2-p-2057.jpg"
   },
   {
     "id":"3",
-    "title": "Novo filme do Pantera Negra será lançado em breve",
-    "description": "Diretor da Marvel Studios afirma que novo filme do Pantera Negra está em produção!",
-    "photoCover":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F6482D58C8BB4D899FA4682BF27652C3E1BB73F5971E5F963994112F26A73690/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    "title": "SOBRE A LINGUAGEM JAVASCRIPT",
+    "description": "JavaScript é uma linguagem de programação amplamente usada para adicionar interatividade e funcionalidade a páginas da web. Ela é executada no navegador do usuário e é conhecida por sua capacidade de lidar com eventos, manipular o DOM (Modelo de Objeto de Documento) e fazer requisições a servidores para criar experiências web dinâmicas.",
+    "photoCover":"https://static.imasters.com.br/wp-content/uploads/2019/06/06110736/JavaScript3.jpg"
   },
   {
     "id":"4",
-    "title": "Nova filme do X-Men está em produção, afirma diretor",
-    "description": "O novo filme X-Men - The Force tem previsão de lançamento para Agosto de 2024.",
-    "photoCover":"https://images.immediate.co.uk/production/volatile/sites/3/2020/04/x-men-films-e30de66.jpg"
+    "title": "SOBRE A LINGUAGEM C#",
+    "description": "C# é uma linguagem de programação da Microsoft, usada principalmente para desenvolvimento de aplicativos Windows e web. É orientada a objetos e fortemente tipada, com ênfase na segurança e facilidade de desenvolvimento.",
+    "photoCover":"https://leandromtr.com/wp-content/uploads/2020/05/conceitos-basicos-do-csharp.jpg"
   }
 ]
